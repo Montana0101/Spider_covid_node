@@ -1,2 +1,2 @@
 # Spider_covid_node
-covid infos
+covid2019 infos
